@@ -1,4 +1,4 @@
-# Task 1
+# [Task 1](https://github.com/ShinkorenokArina/ITMO_study/blob/b2a73372da2cd9437a663b3a50c4bb33d84c5d69/ML/task1.ipynb)
 
 Description:
 1. Train 4 different classifiers using sklearn library to predict "Activity" (biological response of the molecule) field from the "bioresponse.csv" dataset:
