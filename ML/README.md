@@ -1,3 +1,7 @@
+# Laboratory works on the course "Технологии машинного обучения / Machine Learning".
+
+Performed by Arina Shinkorenok (group j4132c)
+
 # [Task 1](https://github.com/ShinkorenokArina/ITMO_study/blob/9ed4cf07712a76edc2d475c1aa2b43ec225ef07d/ML/Task_1_ShinkorenokArina_Group_J4132c.ipynb)
 
 Description:
