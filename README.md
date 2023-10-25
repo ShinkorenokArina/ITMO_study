@@ -1,3 +1,3 @@
 # ITMO_study
 
-Laboratory work at ITMO (Master's programme)
+Laboratory works at ITMO (Master's programme)
