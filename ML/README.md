@@ -23,8 +23,15 @@ Split the data to train and test as 75%/25%.
 
 4. Train a classifier who avoids Type II (False Negative) errors and calculate metrics from p.2 for it. Recall for it should be not less than 0.95.
 
+# [Task 2](https://github.com/ShinkorenokArina/ITMO_study/blob/52107da125013bd4e04bb90b4d5af08c14491665/ML/task_2_ShinkorenokArina_Group_J4132c.ipynb)
 
-# [Task 2(3)](https://github.com/ShinkorenokArina/ITMO_study/blob/b21663b10d2e82b1d904426269236e605544dbeb/ML/task_2(3)(optimisation_methods)_ShinkorenokArina_Group_J4132c.ipynb)
+Description:
+1.	Download Alice in Wonderland by Lewis Carroll from Project Gutenberg's website http://www.gutenberg.org/files/11/11-0.txt
+2.	Perform any necessary preprocessing on the text, including converting to lower case, removing stop words, numbers / non-alphabetic characters, lemmatization.
+3.	Find Top 10 most important (for example, in terms of TF-IDF metric) words from each chapter in the text (not "Alice"); how would you name each chapter according to the identified tokens?
+4.	Find the Top 10 most used verbs in sentences with Alice. What does Alice do most often?
+
+# [Task 3](https://github.com/ShinkorenokArina/ITMO_study/blob/b21663b10d2e82b1d904426269236e605544dbeb/ML/task_2(3)(optimisation_methods)_ShinkorenokArina_Group_J4132c.ipynb)
 
 Description:
 1. Develop yourself using numpy library:
